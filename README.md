@@ -52,4 +52,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sussidip&" alt="sussidip" /></p>
 
+![Snake animation](https://raw.githubusercontent.com/sussidip/sussidip/output/github-contribution-grid-snake-dark.svg)
+
 
