@@ -42,3 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sussidip&show_icons=true&locale=en" alt="sussidip" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sussidip&" alt="sussidip" /></p>
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
