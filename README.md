@@ -49,12 +49,6 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=sussidip&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sussidip&show_icons=true&locale=en&layout=compact" alt="sussidip" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sussidip&show_icons=true&locale=en" alt="sussidip" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sussidip&" alt="sussidip" /></p>
-
 <h3 align="left">Feeding...</h3>
 
 ![Snake animation](https://raw.githubusercontent.com/sussidip/sussidip/output/github-contribution-grid-snake-dark.svg)
