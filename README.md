@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/sudipch43843921" target="blank"><img src="https://img.shields.io/twitter/follow/sudipch43843921?logo=twitter&style=for-the-badge" alt="sudipch43843921" /></a> </p>
 
+-  📡  My Website [Sudip Chaudhary](https://www.sudip-chaudhary.com.np/)
+
 - 🔭 I’m currently working on [Gujara Volunteers](https://www.adhikari-ramesh.com.np/index.html)
 
 - 🌱 I’m currently learning **Python, C++, AI, ML, Java, and PHP**
